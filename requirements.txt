@@ -1,0 +1,4 @@
+hikari-lightbulb
+python-dotenv~=1.0.1
+hikari~=2.0.0.dev122
+google-generativeai==0.3.2
